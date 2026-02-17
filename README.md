@@ -5,7 +5,7 @@
 
 <h3 align='center'> TUX GLUG OFFICIALS</h3>
 <h4>GLUG Coordinator: Dr. RG SURESH KUMAR</h4>
-<h4>Faculty Coordinator: Dr. UDHAYASHREE</h4>
+<h4>Faculty Coordinator: Dr. S UDHAYA SHREE</h4>
 <h4>President: MOHAMED B SIRAJUDDEEN</h4>
 <h4>Secretary: AATISH ASHOK</h4>
 
