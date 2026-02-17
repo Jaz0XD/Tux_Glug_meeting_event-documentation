@@ -11,7 +11,7 @@
 
 <h2> EVENT LIST </h2>
 <h3> RGCET-FSHM MoU Ceremony - 21/03/2025 </h3>
-<h3> InitTux - 21/03/2025 </h3>
+<h3> InitTux - 02/05/2025 </h3>
 <hr>
 <h2> GLUG MEETINGS </h2>
 <h3> Introduction to FOSS - 09/02/2026 </h3>
