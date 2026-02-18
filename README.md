@@ -17,3 +17,4 @@
 <h2 align='center'> GLUG MEETINGS </h2>
 <h3> DAY-I Introduction to FOSS - 09/02/2026 </h3>
 <h3> DAY-II Git and Github - 16/02/2026 </h3>
+<h3> DAY-III Git Workshop - 23/02/2026 </h3>
