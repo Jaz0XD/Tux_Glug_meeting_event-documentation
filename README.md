@@ -8,7 +8,8 @@
 <h4>Faculty Coordinator: Dr. S UDHAYA SHREE</h4>
 <h4>President: MOHAMED B SIRAJUDDEEN</h4>
 <h4>Secretary: AATISH ASHOK</h4>
-
+<h4>Joint-Secretary: KAVIN VENTHAN</h4>
+<h4>Joint-Secretary: KARNEISH</h4>
 <hr>
 <h2 align='center'> EVENT LIST </h2>
 <h3> RGCET-FSHM MoU Ceremony - 21/03/2025 </h3>
@@ -17,4 +18,4 @@
 <h2 align='center'> GLUG MEETINGS </h2>
 <h3> DAY-I Introduction to FOSS - 09/02/2026 </h3>
 <h3> DAY-II Git and Github - 16/02/2026 </h3>
-<h3> DAY-III Git Workshop - 23/02/2026 </h3>
+<h3> DAY-III Where to find Open Source - 23/02/2026 </h3>
