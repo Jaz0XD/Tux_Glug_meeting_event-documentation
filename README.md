@@ -8,7 +8,8 @@
 <h4>Faculty Coordinator: Dr. S UDHAYA SHREE</h4>
 <h4>President: MOHAMED B SIRAJUDDEEN</h4>
 <h4>Secretary: AATISH ASHOK</h4>
-
+<h4>Joint-Secretary: KAVIN VENTHAN</h4>
+<h4>Joint-Secretary: KARNEISH</h4>
 <hr>
 <h2 align='center'> EVENT LIST </h2>
 <h3> RGCET-FSHM MoU Ceremony - 21/03/2025 </h3>
