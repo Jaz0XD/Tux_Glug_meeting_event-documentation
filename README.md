@@ -12,10 +12,11 @@
 <h4>Joint-Secretary: KARNEISH</h4>
 <hr>
 <h2 align='center'> EVENT LIST </h2>
-<h3> RGCET-FSHM MoU Ceremony - 21/03/2025 </h3>
-<h3> InitTux - 02/05/2025 </h3>
+<h4> RGCET-FSHM MoU Ceremony - 21/03/2025 </h4>
+<h4> InitTux - 02/05/2025 </h4>
 <hr>
 <h2 align='center'> GLUG MEETINGS </h2>
-<h3> DAY-I Introduction to FOSS - 09/02/2026 </h3>
-<h3> DAY-II Git and Github - 16/02/2026 </h3>
-<h3> DAY-III Where to find Open Source - 23/02/2026 </h3>
+<h4> DAY-I Introduction to FOSS - 09/02/2026 </h4>
+<h4> DAY-II Git and Github - 16/02/2026 </h4>
+<h4> DAY-III Where to find Open Source - 23/02/2026 </h4>
+<h4> DAY-IV Open Source Tools for Devs - 2/03/2026 </h4>
